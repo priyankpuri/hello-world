@@ -1,2 +1,3 @@
 # hello-world
-hust a sample repositry
+just a sample repositry.
+2nd repositry commit changes
